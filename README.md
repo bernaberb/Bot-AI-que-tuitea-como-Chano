@@ -1,5 +1,7 @@
 # Bot Chano AI
 
+* Link al detalle: https://github.com/bernaberb/Bot-AI-que-tuitea-como-Chano/blob/main/Chano_BOT_AI.ipynb
+
 * Link al bot: https://twitter.com/chano_bot
 * Link al Google Colab: https://colab.research.google.com/drive/1AlVHslcYeg1_lPOrgDgCWqkJB2jBOYHf#scrollTo=ubj-m2xaQnww
 
